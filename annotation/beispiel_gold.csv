@@ -1,4 +1,0 @@
-id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
-10000-1234567-S,teilweise,ausbildung,junior,1100,monat,python|sql|excel,Edge Case: Gehalt erst ab 2. Lehrjahr
-10000-2345678-S,nicht_genannt,festanstellung,senior,,,sap|abap|s4hana,kein Gehalt im Text
-10000-3456789-S,remote,festanstellung,mid,65000,jahr,aws|terraform|kubernetes,

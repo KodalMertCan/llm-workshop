@@ -1,0 +1,13 @@
+id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
+13644-294294-S,nicht_genannt,festanstellung,mid,,,python|r|sql,praktische Erfahrungen genannt aber keine Jahre -> mid
+10001-1002678126-S,nicht_genannt,festanstellung,junior,,,python|machine learning|docker,max 2 Jahre Erfahrung -> klar junior
+10000-1185445644-S,teilweise,festanstellung,mid,,,python|ci/cd|spark,2-3 Jahre Berufserfahrung explizit -> mid
+10001-1002026714-S,nicht_genannt,ausbildung,junior,,,,Ausbildung -> junior; nur Programmierung generisch genannt
+15719-44156922-55-S,teilweise,festanstellung,mid,,,python|sql|machine learning,routiniert+tiefgehend aber kein Senior-Titel und keine Jahre -> mid
+16818-100787927-S,nicht_genannt,ausbildung,junior,953,monat,java|sql|delphi,953 EUR 1. Ausbildungsjahr -> untere Grenze; werden gelernt
+19384-938440348-S,teilweise,festanstellung,junior,,,r|sql|machine learning,3 Tage Homeoffice/Woche; erste Erfahrung erwuenscht nicht zwingend -> junior
+10001-1003030981-S,nicht_genannt,ausbildung,junior,,,,Ausbildung; 'IT feels like home' ist Marketing
+16818-100814418-S,nicht_genannt,ausbildung,junior,,,java|ms office,Java und MS-Office explizit gefordert (nicht nur gelernt)
+13644-297872-S,nicht_genannt,festanstellung,mid,,,python|machine learning|scikit-learn,'mehrjaehrig' ohne genaue Zahl -> mid (kein Senior-Titel)
+13319-868490/1_607417LS-S,ja,festanstellung,senior,,,python|machine learning|sql,Mentoring von Juniors -> Senior; 'Homeoffice-Moeglichkeit' ohne Details -> ja
+10001-1002616378-S,nicht_genannt,festanstellung,mid,,,python|machine learning|azure,'Berufserfahrung' ohne Jahresangabe -> mid

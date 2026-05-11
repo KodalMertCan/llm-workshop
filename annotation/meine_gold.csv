@@ -1,0 +1,14 @@
+id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
+13644-294294-S,nicht_genannt,festanstellung,nicht_genannt,,,python|sql|r,erste erfahrungen aber keine jahresangabe
+10001-1002678126-S,nicht_genannt,festanstellung,junior,,,python|machine learning|git,
+10000-1185445644-S,teilweise,festanstellung,senior,,,python|spark|ci/cd,führungsrolle mit 2-3 Jahre Erfahrung
+10001-1002026714-S,nicht_genannt,ausbildung,junior,,,,Ausbildung -> junior (Schema-Regel); keine techn. Skills im Text genannt
+15719-44156922-55-S,teilweise,festanstellung,nicht_genannt,,,python|machine learning|SQL,
+16818-100787927-S,nicht_genannt,ausbildung,junior,953,monat,,953€ ist 1. Ausbildungsjahr (steigt auf 1100/1210); Schema: untere Grenze nehmen
+19384-938440348-S,teilweise,festanstellung,junior,,,r|sql|machine learning,bis 3 Tage Homeoffice/Woche genannt; erste Berufserfahrung erwuenscht aber nicht zwingend -> junior
+10001-1003030981-S,nicht_genannt,ausbildung,junior,,,,Ausbildung -> junior; 13./14. Gehalt aber keine konkrete Zahl -> null
+16818-100814418-S,nicht_genannt,ausbildung,junior,,,java|ms office,Ausbildung -> junior; explizit 'Erste Programmierkenntnisse in Java' und MS-Office gefordert
+13644-297872-S,nicht_genannt,festanstellung,mid,,,python|machine learning|pandas,"'Mehrjährige praktische Erfahrung' -> mid (keine konkrete Jahresangabe, kein 'Senior' im Titel)"
+13319-868490/1_607417LS-S,ja,festanstellung,senior,,,python|machine learning|sql,'Mentoring von Junior-Data Scientists' -> senior; 'Homeoffice-Möglichkeit' ohne Details -> ja (kein 'hybrid')
+10001-1002616378-S,nicht_genannt,festanstellung,mid,,,python|machine learning|azure,'Berufserfahrung' genannt ohne Jahresangabe -> mid; Gehaltsvorstellung soll angegeben werden aber keine Zahl im Text
+,,,,,,,
