@@ -8,6 +8,6 @@ id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_
 16818-100814418-S,nicht_genannt,ausbildung,junior,,,ms-office|java,ChatGPT GPT-X annotiert
 13644-297872-S,nicht_genannt,festanstellung,mid,,,python|pandas|scikit-learn,ChatGPT GPT-X annotiert
 10001-1002616378-S,nicht_genannt,festanstellung,mid,,,python|azure|scikit-learn,ChatGPT GPT-X annotiert
+16818-100787927-S,nicht_genannt,ausbildung,junior,953,monat,,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
 13319-868490/1_607417LS-S,ja,festanstellung,senior,,,python|machine learning|sql,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
 10001-1002678126-S,nicht_genannt,festanstellung,junior,,,python|machine learning|git,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
-16818-100787927-S,nicht_genannt,ausbildung,junior,953,monat,,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
