@@ -1,13 +1,13 @@
 id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
-13644-294294-S,nicht_genannt,festanstellung,nicht_genannt,,,python|sql|azure,ChatGPT GPT-X annotiert
-10000-1185445644-S,ja,festanstellung,mid,,,python|java|spark,ChatGPT GPT-X annotiert
-10001-1002026714-S,nicht_genannt,ausbildung,junior,,,,ChatGPT GPT-X annotiert
-15719-44156922-55-S,teilweise,festanstellung,nicht_genannt,,,python|sql|git,ChatGPT GPT-X annotiert
-19384-938440348-S,teilweise,festanstellung,junior,,,r|sql|gitlab,ChatGPT GPT-X annotiert
-10001-1003030981-S,nicht_genannt,ausbildung,junior,,,,ChatGPT GPT-X annotiert
-16818-100814418-S,nicht_genannt,ausbildung,junior,,,ms-office|java,ChatGPT GPT-X annotiert
-13644-297872-S,nicht_genannt,festanstellung,mid,,,python|pandas|scikit-learn,ChatGPT GPT-X annotiert
-10001-1002616378-S,nicht_genannt,festanstellung,mid,,,python|azure|scikit-learn,ChatGPT GPT-X annotiert
+13644-294294-S,nicht_genannt,festanstellung,nicht_genannt,,,python|sql|azure,ChatGPT GPT-5.5 annotiert
+10000-1185445644-S,ja,festanstellung,mid,,,python|java|spark,ChatGPT GPT-5.5 annotiert
+10001-1002026714-S,nicht_genannt,ausbildung,junior,,,,ChatGPT GPT-5.5 annotiert
+15719-44156922-55-S,teilweise,festanstellung,nicht_genannt,,,python|sql|git,ChatGPT GPT-5.5 annotiert
+19384-938440348-S,teilweise,festanstellung,junior,,,r|sql|gitlab,ChatGPT GPT-5.5 annotiert
+10001-1003030981-S,nicht_genannt,ausbildung,junior,,,,ChatGPT GPT-5.5 annotiert
+16818-100814418-S,nicht_genannt,ausbildung,junior,,,ms-office|java,ChatGPT GPT-5.5 annotiert
+13644-297872-S,nicht_genannt,festanstellung,mid,,,python|pandas|scikit-learn,ChatGPT GPT-5.5 annotiert
+10001-1002616378-S,nicht_genannt,festanstellung,mid,,,python|azure|scikit-learn,ChatGPT GPT-5.5 annotiert
 16818-100787927-S,nicht_genannt,ausbildung,junior,953,monat,,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
 13319-868490/1_607417LS-S,ja,festanstellung,senior,,,python|machine learning|sql,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
 10001-1002678126-S,nicht_genannt,festanstellung,junior,,,python|machine learning|git,"FEW_SHOT — aus meine_gold übernommen, NICHT in κ einrechnen"
